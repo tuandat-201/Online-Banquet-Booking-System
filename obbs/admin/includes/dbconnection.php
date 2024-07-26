@@ -2,7 +2,7 @@
 // DB credentials.
 define('DB_HOST','localhost');
 define('DB_USER','datldt');
-define('DB_PASS','Ledat711201');
+define('DB_PASS','Ledat711201@');
 define('DB_NAME','obbs');
 // Establish database connection.
 try
